@@ -4,7 +4,7 @@ _flag{secret_message}_
 
 [image](cyberdog.jpg)
 
-Ở đây tác giả giấu một thông điệp bằng cách thay đổi một số bit của ảnh. Mình sử dụng tool [Stegseek](https://github.com/RickdeJager/stegseek) để tìm kiếm thông điệp đó.
+Ở đây tác giả giấu một thông điệp trong bức ảnh. Mình sử dụng tool [Stegseek](https://github.com/RickdeJager/stegseek) để tìm kiếm thông điệp đó.
 
 Mình sử dụng wordlist là [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) để bruteforce tìm ra passphrase của bức ảnh .
 
