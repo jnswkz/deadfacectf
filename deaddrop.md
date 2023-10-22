@@ -24,7 +24,7 @@ print(left_shift(passwd, ord('E')-ord('=')))
 ```
 > Zm91cnR5LW9uZSB0d28gZWlnaHRlZW4gdGhpcnR5LW5pbmUgdGhpcnR5LWZpdmUgdGhpcnR5IA==
 
-Kết quả đúng như mình nghĩ, đó là một chuỗi base-64, mình sử dụng web cyberchef.org để debug chuỗi này.
+Kết quả đúng như mình nghĩ, đó là một chuỗi base-64, mình sử dụng web cyberchef.org để decode chuỗi này.
 ![Alt text](image-4.png)
 
 Kết quả decode ra một chuỗi gồm cách đọc tiếng anh của một vài số, mình sử dụng hàm `print_password` để in ra flag.
