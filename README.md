@@ -1,0 +1,1 @@
+Đây là wu của mình cho giải DEADFACE vừa rồi. Mình và team 41_dun7_kn0w đã kết thúc giải với thứ hạng 78 và đạt được 3532 points. Đóng góp của mình trong giải này tuy không nhiều nhưng mình đã nỗ lực hết sức . <3 Mong rằng mình sẽ đóng góp được nhiều hơn trong các giải tiếp theo. Love you all _41_dun7_kn0w_ <3
