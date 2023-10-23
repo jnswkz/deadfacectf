@@ -2,7 +2,7 @@
  _osint_
 _flag{city states}_
 
-[image](nicevacation.jpg)
+[image](nicevacation.png)
 
 Mình thấy ở phía bên phải của bức ảnh chụp có một tấm biển :
 ![Alt text](image.png)
